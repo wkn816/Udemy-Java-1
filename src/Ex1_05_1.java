@@ -11,17 +11,12 @@
 --------------------------------------------------------------------------------------*/
 class Ex1_05_1 {
 	public static void main (String[] args) {
-			Syste.out.printli
+		int lifetimeWage = 200000;
+		int marketSize = 998;
 
-
-
-
-
-
-
-
-
-
+		char favorite = 'あ';
+		String futureDream = "保育士";
+		boolean previousGraduate = false;
 
 	}
 }
