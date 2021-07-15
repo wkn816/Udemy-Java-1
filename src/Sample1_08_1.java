@@ -3,10 +3,12 @@ class Sample1_08_1 {
 
 		//配列の活用
 
-		char[] singou = new char[3] ;
-		singou[0] = '赤' ;
-		singou[1] = '黄' ;
-		singou[2] = '青' ;
+//		char[] singou = new char[3] ;
+//		singou[0] = '赤' ;
+//		singou[1] = '黄' ;
+//		singou[2] = '青' ;
+
+		char[] singou = {'赤','青','黄'};
 
 		char x = singou[1] ;
 		System.out.println("要素の参照：" + x );
