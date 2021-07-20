@@ -27,9 +27,7 @@ class Sample1_13_4 {
 				System.out.println("大変満足");
 				break;
 			
-			default:
-				System.out.println("満足度は1～5で答えて下さい");
-				break;
+			
 		}
 	}
 }
