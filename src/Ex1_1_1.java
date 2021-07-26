@@ -22,7 +22,7 @@ class Ex1_1_1 {
 	int price = Integer.parseInt(args[args.length -1]);
 	int change = coinSum - price ;
 	System.out.println("ただいまの投入金額は" + coinSum + "円です");
-	System.out.println("お釣りは" + change + "円ですりがとう");
+	System.out.println("お釣りは" + change + "円です。ありがとうございました");
 
 
 	}
